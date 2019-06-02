@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+BAYES - Frontend Developer: Coding Challenge
+
+Technologies / Frameworks：React.js/Javascript, React Bootstrap
+
+Features
+Build a simple Javascript application that consumes the attached JSON data.
+
+List Tournament View
+
+Filter the list by Name
+
+Detail Tournament View:
+
+Display Tournament and Series details
+
+I have a searching function to filter from Name and use modal to show the view of details
+I planned to write a sorting function to sort ID but it's not in use now, so I have it commented out.
 ## Available Scripts
 
 In the project directory, you can run:
